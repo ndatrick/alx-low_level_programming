@@ -1,11 +1,11 @@
-#inlude "0-putchar.h"
+#include "main.h"
 /**
  * main - Entry point
  * Return:0
  */
 int main(void)
 {
-char c[10] = "0-putchar";
+char c[10] = "main";
 int i = 0;
 while (i < 9)
 {
